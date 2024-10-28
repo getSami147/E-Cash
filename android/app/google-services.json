@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576669009925",
+    "project_id": "muzahirfyp",
+    "storage_bucket": "muzahirfyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576669009925:android:004361db5232ddca01b46c",
+        "android_client_info": {
+          "package_name": "com.example.muzahirfyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLzJ9X0ghZz2kAbiofs3QLYbz_thcPuhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
